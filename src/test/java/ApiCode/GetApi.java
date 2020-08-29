@@ -1,6 +1,10 @@
 package ApiCode;
 import BaseTest.BaseClass;
+import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
 import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+import org.json.JSONObject;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
@@ -27,6 +31,23 @@ public static Response GetApiCode(){
         Response response = given().get(""+Base_url+""+BASE_Path+""+emp+""+id+"");
         System.out.println(""+Base_url+""+BASE_Path+""+emp+""+id+"");
         return  response;
+    }
+
+    public static String token(){
+        RestAssured.baseURI ="https://restful-booker.herokuapp.com/auth/";
+        RequestSpecification rr = RestAssured.given();
+        String body = "{\"username\":\"admin\",\"password\":\"password123\"}";
+        Response rs = given().contentType(ContentType.JSON).body(body).post(baseURI);
+        String rt = rs.getSessionId();
+        System.out.println(rs.prettyPrint());
+        System.out.println(rs.getStatusCode());
+        JSONObject obj = new JSONObject(rs.getBody().asString());
+        String accesstoken = obj.get("token").toString();
+    return accesstoken;
+    }
+
+    public static void getBookId(){
+
     }
 
 }

@@ -8,4 +8,5 @@ public class BaseClass {
     public static String Base_url ="http://devapi.kpcaseconnect.com/";
     public static String BASE_Path = "api/CaseConnect/";
 
+
 }

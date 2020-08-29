@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="19118" started-at="2020-08-13T09:46:26Z" finished-at="2020-08-13T09:46:45Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19118" started-at="2020-08-13T09:46:26Z" finished-at="2020-08-13T09:46:45Z">
+      <class name="TestCases.GetTest">
+        <test-method status="PASS" signature="GetEmp()[pri:0, instance:TestCases.GetTest@566776ad]" name="GetEmp" duration-ms="8566" started-at="2020-08-13T09:46:26Z" finished-at="2020-08-13T09:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmp -->
+        <test-method status="PASS" signature="GetEmpByid()[pri:0, instance:TestCases.GetTest@566776ad]" name="GetEmpByid" duration-ms="623" started-at="2020-08-13T09:46:34Z" finished-at="2020-08-13T09:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmpByid -->
+      </class> <!-- TestCases.GetTest -->
+      <class name="TestCases.PracticeTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:TestCases.PracticeTest@1554909b]" name="config" is-config="true" duration-ms="0" started-at="2020-08-13T09:46:36Z" finished-at="2020-08-13T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="tc()[pri:0, instance:TestCases.PracticeTest@1554909b]" name="tc" duration-ms="8328" started-at="2020-08-13T09:46:36Z" finished-at="2020-08-13T09:46:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- TestCases.PracticeTest -->
+      <class name="TestCases.PostTest">
+        <test-method status="PASS" signature="createApi()[pri:0, instance:TestCases.PostTest@6108b2d7]" name="createApi" duration-ms="904" started-at="2020-08-13T09:46:35Z" finished-at="2020-08-13T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createApi -->
+        <test-method status="PASS" signature="createApiByid()[pri:0, instance:TestCases.PostTest@6108b2d7]" name="createApiByid" duration-ms="640" started-at="2020-08-13T09:46:36Z" finished-at="2020-08-13T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createApiByid -->
+      </class> <!-- TestCases.PostTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

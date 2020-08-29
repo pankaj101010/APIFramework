@@ -1,0 +1,7 @@
+ApiCode\PostApi.class
+TestCases\KpLogin.class
+TestCases\PostTest.class
+ApiCode\GetApi.class
+TestCases\PracticeTest.class
+BaseTest\BaseClass.class
+TestCases\GetTest.class
