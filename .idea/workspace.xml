@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e59ce243-b0ab-4756-a87b-9c555e0bb57b" name="Default Changelist" comment="">
+    <list default="true" id="e59ce243-b0ab-4756-a87b-9c555e0bb57b" name="Default Changelist" comment="Test_fillow_file_Added as DD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiCode/GetApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiCode/GetApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest/BaseClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/KpLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/PracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/PracticeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ApiCode/GetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ApiCode/GetApi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TestCases/KpLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCases/PracticeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCases/PracticeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +159,14 @@
       <option name="presentableId" value="Default" />
       <updated>1587908249437</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test_fillow_file_Added as DD">
+      <created>1598709280482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598709280482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,11 +205,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test_fillow_file_Added as DD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test_fillow_file_Added as DD" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="30" key="#Notifications" timestamp="1598708575375">
+    <state x="275" y="30" key="#Notifications" timestamp="1598709376912">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="30" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598708575375" />
+    <state x="275" y="30" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598709376912" />
     <state x="275" y="30" key="#Project_Structure" timestamp="1598705226990">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -215,10 +222,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="534" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1594134925752" />
-    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1598709196354">
+    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1598709259104">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598709196354" />
+    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598709259104" />
     <state x="463" y="89" key="FileChooserDialogImpl" timestamp="1598708481820">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -267,10 +274,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="404" y="110" width="540" height="524" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1594215975405" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1598708740607">
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1598709409271">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598708740607" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598709409271" />
     <state x="390" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1598425504649">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
