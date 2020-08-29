@@ -10,7 +10,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class TestFillo {
-
+// this is used for getting endpoints from excel sheet
     public static Map<String,String> getData() throws FilloException {
         Fillo fl = new Fillo();
         String path = "./EndPoints\\EndPoints.xlsx";
