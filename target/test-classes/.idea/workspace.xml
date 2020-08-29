@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e59ce243-b0ab-4756-a87b-9c555e0bb57b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiCode/GetApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiCode/GetApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/KpLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/PracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/PracticeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ApiCode/GetApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ApiCode/GetApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCases/KpLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCases/PracticeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCases/PracticeTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="e59ce243-b0ab-4756-a87b-9c555e0bb57b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +15,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b53hv8m2gWoc3CFuuBXiRK9kQ1" />
@@ -36,13 +26,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Software file/All jar/fillo-1.18.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.PracticeTest">
+  <component name="RunManager" selected="TestNG.PracticeTest.tc">
+    <configuration name="PracticeTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestApiFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.PracticeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PracticeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestApiFramework" />
       <extension name="coverage">
@@ -71,24 +78,6 @@
       <option name="PACKAGE_NAME" value="TestCases" />
       <option name="MAIN_CLASS_NAME" value="TestCases.PracticeTest" />
       <option name="METHOD_NAME" value="tc" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeTest.tc_02" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestApiFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestCases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TestCases" />
-      <option name="MAIN_CLASS_NAME" value="TestCases.PracticeTest" />
-      <option name="METHOD_NAME" value="tc_02" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PracticeTest" />
-        <item itemvalue="TestNG.PracticeTest.tc_02" />
         <item itemvalue="TestNG.PracticeTest.tc" />
         <item itemvalue="TestNG.Reqres.getSingleUser" />
         <item itemvalue="TestNG.Reqres" />
+        <item itemvalue="TestNG.PracticeTest" />
+        <item itemvalue="TestNG.PracticeTest (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -166,47 +155,7 @@
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="1">
-          <value>
-            <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-              <option name="HIGHLIGHTERS">
-                <map>
-                  <entry key="MY_COMMITS" value="false" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="roots">
-                    <value>
-                      <list>
-                        <option value="$PROJECT_DIR$" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="30" key="#Notifications" timestamp="1598708575375">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="275" y="30" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598708575375" />
     <state x="275" y="30" key="#Project_Structure" timestamp="1598705226990">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -215,74 +164,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="534" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1594134925752" />
-    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1598709196354">
+    <state x="463" y="89" key="FileChooserDialogImpl" timestamp="1598705221175">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598709196354" />
-    <state x="463" y="89" key="FileChooserDialogImpl" timestamp="1598708481820">
+    <state x="463" y="89" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1598705221175" />
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1597755783365">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="89" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1598708481820" />
-    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1598708958194">
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597755783365" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1597755783365">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598708958194" />
-    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1598708958194">
+    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597755783365" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1597755783365">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598708958194" />
-    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1598708958194">
+    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597755783365" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1597755783365">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598708958194" />
-    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1598708958194">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598708958194" />
-    <state width="1323" height="290" key="GridCell.Tab.1.bottom" timestamp="1598707621325">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="290" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598707621325" />
-    <state width="1323" height="290" key="GridCell.Tab.1.center" timestamp="1598707621325">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="290" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1598707621325" />
-    <state width="1323" height="290" key="GridCell.Tab.1.left" timestamp="1598707621325">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="290" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1598707621325" />
-    <state width="1323" height="290" key="GridCell.Tab.1.right" timestamp="1598707621325">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="290" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1598707621325" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597755783365" />
     <state x="213" y="26" key="Maven.ArtifactSearchDialog" timestamp="1598705110939">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="213" y="26" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1598705110939" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1598708802158">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598708802158" />
     <state x="404" y="110" width="540" height="524" key="StructurePopup" timestamp="1594215975405">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="404" y="110" width="540" height="524" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1594215975405" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1598708740607">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598708740607" />
     <state x="390" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1598425504649">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="390" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1598425504649" />
-    <state x="494" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598708810535">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="494" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1598708810535" />
-    <state x="384" y="172" key="git4idea.merge.GitPullDialog" timestamp="1598708845998">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="384" y="172" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1598708845998" />
     <state x="65" y="73" key="new project wizard" timestamp="1598704943867">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
